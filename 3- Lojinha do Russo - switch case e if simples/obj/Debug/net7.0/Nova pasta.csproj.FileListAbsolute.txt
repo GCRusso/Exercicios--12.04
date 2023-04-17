@@ -1,0 +1,30 @@
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\bin\Debug\net7.0\Nova pasta.exe
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\bin\Debug\net7.0\Nova pasta.deps.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\bin\Debug\net7.0\Nova pasta.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\bin\Debug\net7.0\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\bin\Debug\net7.0\Nova pasta.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\refint\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\Nova pasta.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Nova pasta\obj\Debug\net7.0\ref\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\bin\Debug\net7.0\Nova pasta.exe
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\bin\Debug\net7.0\Nova pasta.deps.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\bin\Debug\net7.0\Nova pasta.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\bin\Debug\net7.0\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\bin\Debug\net7.0\Nova pasta.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\refint\Nova pasta.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\Nova pasta.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Lojinha do Russo - switch case e if simples\obj\Debug\net7.0\ref\Nova pasta.dll

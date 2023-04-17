@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\bin\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.exe
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\bin\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.deps.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\bin\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\bin\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\bin\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\refint\Entre 10 numeros imprima o maior e o menor.dll
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.pdb
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\Entre 10 numeros imprima o maior e o menor.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Exercicios-C-sharp\Exercicios 12.04\Entre 10 numeros imprima o maior e o menor\obj\Debug\net7.0\ref\Entre 10 numeros imprima o maior e o menor.dll
